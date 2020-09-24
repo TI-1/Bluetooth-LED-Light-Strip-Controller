@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Led Light Control</string>
+    <string name="text_brightness">Brightness</string>
+    <string name="text_speed">Speed</string>
+    <string name="button_fade">Fade</string>
+    <string name="button_flash">Flash</string>
+    <string name="refresh">Refresh</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="button_cylon">Cylon</string>
+    <string name="button_more">More</string>
+    <string name="button_strobe">Strobe</string>
+    <string name="button_snowsparkle">Snow Sparkle</string>
+    <string name="button_runninglights">Running Lights</string>
+    <string name="button_colourwipe">Colour Wipe</string>
+    <string name="button_rainbowcycle">Rainbow Cycle</string>
+    <string name="button_meteorrain">Meteor Rain</string>
+    <string name="button_white">White</string>
+    <string name="button_red">Red</string>
+    <string name="button_green">Green</string>
+    <string name="button_blue">Blue</string>
+</resources>
